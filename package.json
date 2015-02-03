@@ -1,0 +1,16 @@
+{
+  "name": "GraphComments",
+  "version": "1.0.0",
+  "description": "Simple React/Relay app for GraphNoQL",
+  "main": "src/js/app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "lutherism",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-react": "^2.0.0",
+    "gulp-watch": "^4.1.0",
+    "react": "^0.12.2"
+  }
+}
